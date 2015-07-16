@@ -252,9 +252,9 @@
             language: "english",
             chatLink: "https://rawgit.com/WizzardDestroyer/basicBot/master/lang/en.json",
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
-            startupEmoji: false, // true or false
+            startupCap: 200, // 1-200
+            startupVolume: 15, // 0-100
+            startupEmoji: true, // true or false
             autowoot: true,
             autoskip: false,
             smartSkip: true,
